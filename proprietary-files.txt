@@ -1,5 +1,5 @@
 # Camera (All)
-odm/lib/libc++_shared.so
+odm/lib64/libc++_shared.so
 odm/lib64/lib2DSlender.so
 odm/lib64/libAlgoInterface.so
 odm/lib64/libAlgoProcess.so
