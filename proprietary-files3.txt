@@ -70,7 +70,7 @@ vendor/lib64/vendor.oplus.hardware.commondcs-V1-ndk_platform.so
 vendor/lib64/vendor.oplus.hardware.extcamera@1.0.so
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|c47e94efa891cf09dd4f20ea0d271ac615f0ee8d
 # Camera (All)
-odm/lib/libc++_shared.so
+odm/lib64/libc++_shared.so
 odm/lib64/lib2DSlender.so
 odm/lib64/libAlgoInterface.so
 odm/lib64/libAlgoProcess.so
